@@ -1,1 +1,1 @@
-# This is a basic Modal Window opening which is great for popups, highlights, and expanding texts in the form of diverse information. Entirely made using HTML, CSS, and JavaScript.
+# This is a basic Modal Window opening which is great for popups, highlights, and expanding texts in the form of diverse information. Entirely made using HTML, CSS, and JavaScript. A basic element that can be used in huge and sustainable projects.
