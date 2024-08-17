@@ -1,1 +1,1 @@
-Work in Progress
+# This is a basic Modal Window opening which is great for popups, highlights, and expanding texts in the form of diverse information.
